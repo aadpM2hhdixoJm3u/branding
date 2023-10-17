@@ -1,18 +1,9 @@
 {
 "inviteDomain": "meet54.tillberg.biz",
 "backgroundColor": "#F82F4A",
-"backgroundImageUrl": "",
+"backgroundImageUrl": "https://certezza.net/wp-content/themes/certezza/assets/images/graphics/certezza_logo.svg",
 "logoClickUrl": "https://certezza.net",
 "logoImageUrl": "https://certezza.net/wp-content/themes/certezza/assets/images/graphics/certezza_logo.svg",
-"useDynamicBrandingData" : true,
-"defaultBranding" : false
-}
-{
-"inviteDomain": "test1.tillberg.biz",
-"backgroundColor": "#F82F4A",
-"backgroundImageUrl": "",
-"logoClickUrl": "https://doc.nexusgroup.com",
-"logoImageUrl": "https://doc.nexusgroup.com/download/attachments/327682/atl.site.logo?version=10&modificationDate=1649665290832&api=v2",
 "useDynamicBrandingData" : true,
 "defaultBranding" : false
 }
