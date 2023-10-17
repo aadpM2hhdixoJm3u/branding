@@ -1,0 +1,9 @@
+{
+"inviteDomain": "",
+"backgroundColor": "#F82F4A",
+"backgroundImageUrl": "",
+"logoClickUrl": "url_to_my_page",
+"logoImageUrl": "url_to_svg",
+"useDynamicBrandingData" : true,
+"defaultBranding" : false
+}
