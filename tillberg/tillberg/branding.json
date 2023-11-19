@@ -1,9 +1,0 @@
-{
-    "inviteDomain": "meet.tillberg.biz",
-    "backgroundColor": "#262626",
-    "backgroundImageUrl": "",
-    "logoClickUrl": "https://aftonbladet.se",
-    "logoImageUrl": "https://cdn.aftonbladet.se/logotypes/logo-aftonbladet.svg",
-    "useDynamicBrandingData" : true,
-    "defaultBranding" : false
-    }
