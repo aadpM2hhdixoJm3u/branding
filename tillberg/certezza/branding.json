@@ -1,0 +1,9 @@
+{
+    "inviteDomain": "certezza.net",
+    "backgroundColor": "#F82F4A",
+    "backgroundImageUrl": "",
+    "logoClickUrl": "https://certezza.net",
+    "logoImageUrl": "https://certezza.net/wp-content/themes/certezza/assets/images/graphics/certezza_logo.svg",
+    "useDynamicBrandingData" : true,
+    "defaultBranding" : false
+    }
