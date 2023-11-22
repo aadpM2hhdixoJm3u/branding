@@ -2,8 +2,8 @@
     "inviteDomain": "meet.tillberg.biz",
     "backgroundColor": "#262626",
     "backgroundImageUrl": "",
-    "logoClickUrl": "https://aftonbladet.se",
-    "logoImageUrl": "https://cdn.aftonbladet.se/logotypes/logo-aftonbladet.svg",
+    "logoClickUrl": "https://tyreso.se",
+    "logoImageUrl": "https://www.tyreso.se/webdav/files/System/resources/graphics/logo.svg",
     "useDynamicBrandingData" : true,
     "defaultBranding" : false
     }
